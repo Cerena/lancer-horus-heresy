@@ -1,0 +1,36 @@
+---
+pilot: "[[PC's/Humans/Evelyn]]"
+manufacture: HORUS
+chassis: Gorgon
+---
+# Frame Traits
+>[!frame-trait] Metastatic Paralysis
+>When an attack roll against the Gorgon lands on 1–2, it automatically misses and the attacker becomes Stunned until the end of their next turn.
+
+>[!frame-trait] Gaze
+>The Gorgon can take two reactions per turn, instead of one.
+
+>[!frame-trait] Guardian
+>Adjacent allied characters may use the Gorgon for hard cover.
+# Core System
+# Core bonus
+
+# Stats
+## Durability
+
+| Structure | HP  | Armor | Stress | Heatcap | Repairs | Limited Use Bonus |
+| --------- | --- | ----- | ------ | ------- | ------- | ----------------- |
+|           |     |       |        |         |         |                   |
+## Combat
+
+| Speed | Evasion | E-Defense | Sensor Range | Save |
+| ----- | ------- | --------- | ------------ | ---- |
+|       |         |           |              |      |
+# Weapons
+## Flex Mount
+
+## Main Mount
+
+## Main Mount
+
+# Systems

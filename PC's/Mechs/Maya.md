@@ -20,12 +20,12 @@ chassis: Gorgon
 
 | Structure | HP  | Armor | Stress | Heatcap | Repairs | Limited Use Bonus |
 | --------- | --- | ----- | ------ | ------- | ------- | ----------------- |
-|           |     |       |        |         |         |                   |
+|           | 12  | 0     | 4      | 5       |         |                   |
 ## Combat
 
 | Speed | Evasion | E-Defense | Sensor Range | Save |
 | ----- | ------- | --------- | ------------ | ---- |
-|       |         |           |              |      |
+| 4     | 8       | 12        | 8            | 2    |
 # Weapons
 ## Flex Mount
 

@@ -10,9 +10,10 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "E:\\Obsidian\\Horus Heresy\\docs",
+    "exportPath": "/var/home/tharinock/rpg/lancer-horus-heresy/docs",
     "filesToExport": [
       "Inbox",
+      "NPC Notes",
       "PC's/Humans",
       "PC's/Mechs",
       "PC's/NHP's",
@@ -233,7 +234,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",

@@ -1,1 +1,5 @@
-Governor of Tal Astero
+---
+tags:
+  - npc
+---
+Governor of [[Tal Astero]].

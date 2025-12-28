@@ -1,5 +1,5 @@
 ---
-pilot: "[[PC's/Humans/Evelyn]]"
+pilot: "[[Evelyn Garve]]"
 manufacture: HORUS
 chassis: Gorgon
 ---

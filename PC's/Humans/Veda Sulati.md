@@ -1,8 +1,10 @@
 ---
 tags: pc
-age:
+age: "16"
 callsign: Tora
 mech: "[[Raiju (Mech)]]"
+licensces: HORUS Pegasus 3
+status: alive
 ---
 # Stats
 | Hull | Agility | Systems | Engineering |

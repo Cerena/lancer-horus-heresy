@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33c6ab7c8b465e02",
+            "id": "c9bdc8733744dcb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,12 +27,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC Notes/Tal Astero/Lance Beal.md",
+                "file": "NPC Notes/Tal Astero/Regional commander someone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lance Beal"
+              "title": "Regional commander someone"
+            }
+          },
+          {
+            "id": "4fb5b6004204fe54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC Notes/Mechs/Stone Rhino.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Stone Rhino"
+            }
+          },
+          {
+            "id": "055bd8e40898a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Places/Tal Astero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tal Astero"
+            }
+          },
+          {
+            "id": "bb40bdeb3b656a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC Notes/Backstory/Father Sulati.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Father Sulati"
+            }
+          },
+          {
+            "id": "a96fa4abb65b76e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC's/Mechs/Raiju (Mech).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raiju (Mech)"
             }
           }
         ]
@@ -97,69 +153,10 @@
   "right": {
     "id": "4c7b31266b83571f",
     "type": "split",
-    "children": [
-      {
-        "id": "e0648afada449dfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2980012071a24331",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9b6959190809",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 6,
-                    "month": 6,
-                    "year": 5016
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 5,
-                    "month": 6,
-                    "year": 5016
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": false,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_0b8a6bfb4b99",
-                "child": "ID_69ca3b19fbd9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d15b751aeefe69cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e49e8ade37ac2af9",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_9b6959190809",
-                "id": "ID_69ca3b19fbd9",
-                "parent": "ID_0b8a6bfb4b99"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,45 +175,101 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "33c6ab7c8b465e02",
+  "floating": {
+    "id": "b62f7573e13bb252",
+    "type": "floating",
+    "children": [
+      {
+        "id": "812de8ac4f23f976",
+        "type": "window",
+        "children": [
+          {
+            "id": "cd83953b84496b80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ed9649c1bf2375a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PC's/Mechs/Dream.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dream"
+                }
+              },
+              {
+                "id": "bbcf11f0b551a895",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PC's/Humans/Cooper Ellys.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cooper Ellys"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2328,
+        "y": 95,
+        "width": 1160,
+        "height": 886,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c9bdc8733744dcb8",
   "lastOpenFiles": [
+    "NPC Notes/Tal Astero/Regional commander someone.md",
+    "NPC Notes/Tal Astero/Lance Beal.md",
+    "References/Notes/2025-12-14.md",
+    "NPC Notes/Backstory/Father Sulati.md",
+    "NPC Notes/Tal Astero/Artria.md",
+    "NPC Notes/Mechs/Stone Rhino.md",
+    "NPC Notes/Mechs/Spiral Dragon.md",
+    "NPC Notes/Tal Astero/Gwen.md",
+    "NPC Notes/Mechs/White Tiger.md",
+    "PC's/Mechs/Dream.md",
+    "PC's/Humans/Cooper Ellys.md",
+    "PC's/Backstory/Cooper Ellys (Backstory).md",
+    "PC's/Mechs/Raiju (Mech).md",
+    "NPC Notes/Mechs",
+    "NPC Notes/Untitled.md",
+    "NPC Notes/Backstory/Chrom Ellys.md",
+    "PC's/Backstory/Evelyn Garve (Backstory).md",
+    "PC's/Humans/Evelyn Garve.md",
+    "References/Places/Tal Astero.md",
+    "NPC Notes/Royal Leadership/Henry Decker.md",
+    "PC's/Mechs/Maya.md",
+    "Inbox/Horus Heresy.html",
+    "Inbox/site-lib/search-index.json",
+    "Inbox/site-lib/metadata.json",
+    "Inbox/site-lib/styles/theme.css",
+    "Inbox/site-lib/styles/supported-plugins.css",
+    "Inbox/site-lib/styles/snippets.css",
+    "Inbox/site-lib/styles/other-plugins.css",
+    "Inbox/site-lib/styles/obsidian.css",
+    "Inbox/site-lib/styles/main-styles.css",
+    "Inbox/site-lib/media/favicon.png",
+    "Inbox/site-lib/media/6155340132a851f6089e.svg",
+    "Inbox/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "Inbox/Call To Arms!.md",
     "References/Notes/20251214.md",
     "References/Places/Eschaton.md",
-    "References/Notes/2025-12-14.md",
-    "NPC Notes/Tal Astero/Lance Beal.md",
-    "NPC Notes/Lancers/Untitled",
     "PC's/Humans/Veda Sulati.md",
     "PC's/Backstory/Veda Sulati (Backstory).md",
-    "PC's/Backstory/Evelyn Garve (Backstory).md",
     "Evelyn.md",
-    "PC's/Backstory/Cooper Ellys (Backstory).md",
-    "PC's/Humans/Evelyn Garve.md",
-    "References/Talents/Combined Arms.md",
-    "References/Talents/Hunter.md",
-    "References/Talents/Siege Specialist.md",
-    "References/Talents/Skirmisher.md",
-    "References/Talents/Leader.md",
-    "PC's/Mechs/Raiju (Mech).md",
-    "PC's/Humans/Cooper Ellys.md",
-    "NPC Notes/Backstory/Father Sulati.md",
-    "NPC Notes/Backstory/Chrom Ellys.md",
-    "NPC Notes/Backstory",
-    "PC's/Company Roster.md",
-    "NPC Notes/Backstory/Mother Ellys.md",
-    "NPC Notes/Backstory/Sister Ellys.md",
-    "PC's/Backstory/Untitled",
-    "NPC Notes/Royal Leadership/Henry Decker.md",
-    "NPC Notes/Tal Astero/Governer Artem Pless.md",
-    "References/Places/Tal Astero.md",
-    "References/Places/Steralis.md",
     "Untitled 1.canvas",
-    "NPC Notes/Other",
-    "References/Places",
-    "References/Notes",
-    "docs/site-lib/search-index.json",
-    "docs/site-lib/metadata.json",
-    "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/supported-plugins.css",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -224,9 +277,6 @@
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",
     "data/banners/powered_by_Lancer-white-on-black-cover.svg",
-    "data/banners/status-items.svg",
-    "data/banners/npc-items.svg",
-    "data/banners/npc-actors.svg",
-    "data/banners/pilot-items.svg"
+    "data/banners/status-items.svg"
   ]
 }

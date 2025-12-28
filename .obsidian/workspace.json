@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e754579be3c800df",
+            "id": "33c6ab7c8b465e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC Notes/Royal Leadership/Henry Decker.md",
+                "file": "References/Notes/2025-12-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Henry Decker"
+              "title": "2025-12-14"
+            }
+          },
+          {
+            "id": "94e4b01212c80c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC Notes/Tal Astero/Lance Beal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lance Beal"
             }
           }
         ]
@@ -85,99 +99,67 @@
     "type": "split",
     "children": [
       {
-        "id": "fe521bc002d119e4",
+        "id": "e0648afada449dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "9e48fff119a0380c",
+            "id": "2980012071a24331",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "CALENDARIUM",
               "state": {
-                "file": "PC's/Party.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "calendar": "ID_9b6959190809",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 6,
+                    "month": 6,
+                    "year": 5016
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 5,
+                    "month": 6,
+                    "year": 5016
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": false,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_0b8a6bfb4b99",
+                "child": "ID_69ca3b19fbd9"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Party"
-            }
-          },
-          {
-            "id": "a2351065b4f35728",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "PC's/Party.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Party"
-            }
-          },
-          {
-            "id": "50a1d1289784c14f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a327700626935fa7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "PC's/Party.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Party"
-            }
-          },
-          {
-            "id": "8658fd0eebcfad2d",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
-            }
-          },
-          {
-            "id": "0bc652c8390a5daa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "d15b751aeefe69cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e49e8ade37ac2af9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_9b6959190809",
+                "id": "ID_69ca3b19fbd9",
+                "parent": "ID_0b8a6bfb4b99"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,50 +174,52 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "webpage-html-export:Export as HTML": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e754579be3c800df",
+  "active": "33c6ab7c8b465e02",
   "lastOpenFiles": [
+    "References/Notes/20251214.md",
+    "References/Places/Eschaton.md",
+    "References/Notes/2025-12-14.md",
+    "NPC Notes/Tal Astero/Lance Beal.md",
+    "NPC Notes/Lancers/Untitled",
+    "PC's/Humans/Veda Sulati.md",
+    "PC's/Backstory/Veda Sulati (Backstory).md",
+    "PC's/Backstory/Evelyn Garve (Backstory).md",
+    "Evelyn.md",
+    "PC's/Backstory/Cooper Ellys (Backstory).md",
+    "PC's/Humans/Evelyn Garve.md",
+    "References/Talents/Combined Arms.md",
+    "References/Talents/Hunter.md",
+    "References/Talents/Siege Specialist.md",
+    "References/Talents/Skirmisher.md",
+    "References/Talents/Leader.md",
+    "PC's/Mechs/Raiju (Mech).md",
+    "PC's/Humans/Cooper Ellys.md",
+    "NPC Notes/Backstory/Father Sulati.md",
+    "NPC Notes/Backstory/Chrom Ellys.md",
+    "NPC Notes/Backstory",
     "PC's/Company Roster.md",
+    "NPC Notes/Backstory/Mother Ellys.md",
+    "NPC Notes/Backstory/Sister Ellys.md",
+    "PC's/Backstory/Untitled",
+    "NPC Notes/Royal Leadership/Henry Decker.md",
+    "NPC Notes/Tal Astero/Governer Artem Pless.md",
+    "References/Places/Tal Astero.md",
+    "References/Places/Steralis.md",
+    "Untitled 1.canvas",
+    "NPC Notes/Other",
+    "References/Places",
+    "References/Notes",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/site-lib/styles/theme.css",
     "docs/site-lib/styles/supported-plugins.css",
-    "docs/site-lib/styles/snippets.css",
-    "docs/site-lib/styles/other-plugins.css",
-    "docs/site-lib/styles/obsidian.css",
-    "docs/site-lib/styles/main-styles.css",
-    "docs/site-lib/styles/global-variable-styles.css",
-    "docs/site-lib/scripts/webpage.js",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "PC's/NHP's/Raiju.md",
-    "PC's/Mechs/Raiju (Mech).md",
-    "PC's/Mechs/Dream.md",
-    "PC's/Humans/Veda Sulati.md",
-    "PC's/Humans/Cooper Ellys.md",
-    "References/Talents/Skirmisher.md",
-    "References/Talents/Leader.md",
-    "References/Talents/Hunter.md",
-    "References/Talents/Duelist.md",
-    "References/Talents/Combined Arms.md",
-    "References/Systems/Type-3 Projected Shield.md",
-    "References/Systems/Singularity Motivator.md",
-    "References/Systems/Hunter Logic Suite.md",
-    "References/Systems/Fade Cloak.md",
-    "References/Gear/Variable Sword.md",
-    "References/Gear/Fold Knife.md",
-    "References/Core Bonus/Overpower Caliber.md",
-    "PC's/Mechs/Maya.md",
-    "PC's/Humans/Evelyn.md",
-    "NPC Notes/Royal Leadership/Henry Decker.md",
-    "NPC Notes/Royal Leadership/Hans Stera.md",
-    "NPC Notes/Tal Astero/Governer Artem Pless.md",
-    "NPC Notes/Tal Astero/Lance Beal.md",
-    "NPC Notes/Royal Leadership/Sten Stera.md",
-    "Inbox/Call To Arms!.md",
     "Untitled.canvas",
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",

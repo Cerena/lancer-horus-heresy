@@ -1,0 +1,235 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Lancer",
+      "description": "",
+      "id": "ID_9b6959190809",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_98bafbdb7b89"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_8a798b3aeb1a"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_380b7b5a4b79"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_eb88399a2838"
+          },
+          {
+            "type": "day",
+            "name": "friday",
+            "id": "ID_c92b1a5aabc8"
+          },
+          {
+            "type": "day",
+            "name": "saturday",
+            "id": "ID_58b94b1bdb4b"
+          },
+          {
+            "type": "day",
+            "name": "sunday",
+            "id": "ID_ea083a2a7b29"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Jan",
+            "length": 31,
+            "id": "ID_8b88791bd92a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Feb",
+            "length": 29,
+            "id": "ID_8b3a8a6b1b4a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mar",
+            "length": 31,
+            "id": "ID_2afa79ebea89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Apr",
+            "length": 30,
+            "id": "ID_3bab58488849",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "May",
+            "length": 31,
+            "id": "ID_1a78ab98c818",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Jun",
+            "length": 30,
+            "id": "ID_9b6aeaa9aa6b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Jul",
+            "length": 31,
+            "id": "ID_49f9ba69db79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aug",
+            "length": 31,
+            "id": "ID_da9bcabb18a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sep",
+            "length": 30,
+            "id": "ID_bbe88a3b8b8b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Oct",
+            "length": 30,
+            "id": "ID_6978da8a5998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nov",
+            "length": 30,
+            "id": "ID_4b79aa4a38b8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dec",
+            "length": 31,
+            "id": "ID_daab5a383968",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": false,
+        "interpolateColors": false,
+        "weather": {
+          "enabled": false,
+          "seed": 1297478760,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 5,
+        "month": 6,
+        "year": 5016
+      },
+      "events": [
+        {
+          "name": "Steralis arrival",
+          "description": "Party arrives at Steralis",
+          "date": {
+            "day": 5,
+            "month": 6,
+            "year": 5016
+          },
+          "id": "ID_6b2b8a59896b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_9b6959190809",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

@@ -5,6 +5,7 @@ age: "26"
 callsign: Mini
 licensces: HORUS Gorgon 3
 mech: "[[Maya]]"
+status: alive
 ---
 # Stats
 | Hull | Agility | Systems | Engineering |

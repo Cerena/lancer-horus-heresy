@@ -1,1 +1,6 @@
-Recently commissioned as Grand Marshall of the combined Royal Forces of Steralis
+---
+tags:
+  - npc
+---
+
+Recently commissioned as Grand Marshall of the combined Royal Forces of [[Steralis]]

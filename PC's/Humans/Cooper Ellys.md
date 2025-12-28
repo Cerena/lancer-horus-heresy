@@ -4,6 +4,7 @@ age: "25"
 callsign: Redcent
 licensces: SSC Mourning Cloak 3
 mech: "[[Dream]]"
+status: alive
 ---
 # Stats
 | Hull | Agility | Systems | Engineering |

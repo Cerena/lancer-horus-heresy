@@ -176,6 +176,69 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "58cfe66e040d8646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/Notes/2025-12-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-12-14"
+            }
+          },
+          {
+            "id": "ae66a3d18efeb1b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "References/Notes/2025-12-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-12-14"
+            }
+          },
+          {
+            "id": "f080667b8b8ad6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7da35c0c9004d39b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "References/Notes/2025-12-14.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-12-14"
+            }
           }
         ]
       },
@@ -220,12 +283,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "78616e31f4a24a4b",
+  "active": "c9bdc8733744dcb8",
   "lastOpenFiles": [
-    "NPC Notes/Mechs/Stone Rhino.md",
-    "References/Notes/2025-12-14.md",
-    "NPC Notes/Tal Astero/Regional commander someone.md",
     "Untitled.base",
+    "References/Notes/2025-12-14.md",
+    "NPC Notes/Mechs/Stone Rhino.md",
+    "NPC Notes/Tal Astero/Regional commander someone.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "NPC Notes/Tal Astero/Lance Beal.md",

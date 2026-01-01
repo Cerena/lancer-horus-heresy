@@ -117,5 +117,19 @@ We make it to a small factory town, where we unlock our mechs.
 
 > *Ethan: "The locals are trying to determine the OSHA guidelines for touching the floating back orb on Raiju."*
 
-Someone approaches and introduces himself as Heath Ledersin; confirms we're here to help, and tells us to let him know what they can help with. We get as settled in as we plan to; they've built us a make-shift mech hanger. Lancer and the other lancers are continuing on to the other side of the settlements, so we bid them bye for now.
+Someone approaches and introduces himself as [[Heath Ledersin]]; confirms we're here to help, and tells us to let him know what they can help with. We get as settled in as we plan to; they've built us a make-shift mech hanger. Lancer and the other lancers are continuing on to the other side of the settlements, so we bid them bye for now.
+#### Briefing and patroling
+Once we've settled in, Cooper goes out and talks to the locals to try to get any footage the locals might have about what's been attacking them. She finds someone who has a low quality recording of a small mining outpost; it has two or three mechs bursting out of the tree lines, kill everything on their way to the ore deposits, then take what they can carry and leave. They're not lancer frames, and seem to be poorly assembled collections of parts.
 
+She brings it back to Evelyn and Veda; Evelyn looks at it and after a moment is able to identify specific parts of the mechs that are clearly HORUS. As far as we can tell it looks like the mechs shouldn't be functioning but the HORUS tech seems to be helping somehow. Cooper asks Evelyn how she could tell, and Evelyn explains her eyes, and that she came to Steralis because she kept seeing the name appear places she knew it wasn't printed.  Veda goes and hunts down some supplies, finding us some extra repairs.
+
+We meet back up with Heath, who gives us a more detailed sitrep. Mostly the small mining towns have been getting attacked, the attackers have left the factory alone. They're brutally killing whoever is there, but have been weirdly efficient about it. Sometimes tech goes haywire around the same times, and some people claim they've seen things in the mountain that aren't there, or routes appear different, including being walled off. Cooper asks if they think it's related to HORUS tech, he believes yes but they have no proof. He says the attacks have been recently ramping up, they're attacking a few times a week and but it's been a couple days since they were spotted, so we're about due.
+
+We determine best we can do for now is set up some patrols and wait until they strike. We exchange communications information.
+
+> *Chris: "I am not going off in my futuristic battle mech to go confirm Reddit rumors. I have few principles, but that's one."*
+> *Angela: "If anyone posts about Yu-gi-oh, though, you're on it."* 
+
+We get a good idea of the lay of the land, but it's an uneventful day, as are the next two.
+#### Briefing and patrolling
+On the third day, we get an alert that a town 20 minutes from us has been attacked. We immediately head off and arrive to find the ore depot ransacked and some dead bodies, with one living person who is alarmed to see us. He points us in the direction the mechs went, and we track them.

@@ -95,12 +95,27 @@ Evelyn asks again about the rumored HORUS tech, and the local share they've got 
 
 > *Angela, at the prospect of being in charge of shot-calling: "I cast gun, targeting myself."*
 #### Side conversations
-Veda takes Evelyn to meet Raiju. On the way, Evelyn explains more about her eyes being HORUS tech. 
+Veda takes Evelyn to meet Raiju. On the way, Evelyn explains more about her eyes being HORUS tech. Veda introduces Evelyn to Raiju, and nothing goes wrong.
 
 Cooper goes to talk to the Regional Commander about Dream, and explains that the previous pilot, [[Chrom Ellys]] was her father and she inherited the licenses from him. The commander explains she and Chrom had done business in the past; she found him professional but knows he was not exactly on the up and up. Cooper explains she knows not everyone who had business with him thinks well of him, so she's trying to proactively seek out anyone in that boat. Commander assures her that she isn't looking for any kind of vengeance, and that if she knows any of the names Cooper is looking for she'd be happy to help. The commander says she doesn't know anyone on-planet who had particularly strong feelings about him, but that he was also very tight-lipped about his business. Cooper suspects not even her father knew everyone who cared about his business, but is happy to know there are no obvious threats.
 
 Cooper asks for her impression of Lance; she hasn't seen a ton out of him yet, but thinks he has promise. She's concerned he has a lot to do to find his own voice, but she's not worried.
 #### Heading out
-The next morning, we're given directions on where we'll get deployed to, which is near some mountains. Our mechs will be delivered via train, so we get them all loaded up.
+The next morning, we're given directions on where we'll get deployed to, which is near some mountains. Our mechs will be delivered via train, so we get them all loaded up and begin our journey.
 
-(0:53:18)
+Veda asks Cooper how her conversation with the commander went, and she catches her up. Evelyn asks how the two of them knew each other and Cooper explains they met at [[Kepler's Pride]], their fathers had been involved in some parallel work, and they'd stayed in touch.
+
+> *Chris: "So have we finished our train ride yet?"*
+> *Ethan: "Yes."*
+> *Jessee: "Veda is unimpressed by the mountains in the distance."*
+> *Angela: "I'm the normal amount of impressed. Whatever that value should be."*
+> *Ethan: "Seven."*
+> *Jessee: "No scale, just seven."*
+> *Chris: "You can't say he's wrong."*
+
+We make it to a small factory town, where we unlock our mechs.
+
+> *Ethan: "The locals are trying to determine the OSHA guidelines for touching the floating back orb on Raiju."*
+
+Someone approaches and introduces himself as Heath Ledersin; confirms we're here to help, and tells us to let him know what they can help with. We get as settled in as we plan to; they've built us a make-shift mech hanger. Lancer and the other lancers are continuing on to the other side of the settlements, so we bid them bye for now.
+

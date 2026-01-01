@@ -196,7 +196,7 @@
           "type": "Date"
         },
         {
-          "name": "Travel",
+          "name": "Travel to factory town",
           "description": null,
           "date": {
             "day": 6,
@@ -205,6 +205,23 @@
           },
           "id": "ID_4b1bc94b1939",
           "note": "References/Notes/2025-12-14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Receive assignment",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 6,
+            "year": 5016
+          },
+          "id": "ID_d8fa3a4beac8",
+          "note": "References/Notes/2025-12-14 Government Sponsored eldritch horrors.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

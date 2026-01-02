@@ -37,7 +37,6 @@ Cooper and Veda get there first and catch up briefly, Evelyn arrives and introdu
 > *Chris: "You made your DC 10 bardic knowledge roll."*
 > *Angela: "Did I?"*
 > *Chris: "You didn't roll it, so yes."*
-
 #### Meeting Lance and getting our orders
 We discuss what everyone pilots and that if there are three of us in a unit they must be dealing with something formidable. After a bit Lance enters and greets us. He tells us this is his first command and we've been stationed at [[Tal Astero]].
 
@@ -131,5 +130,48 @@ We determine best we can do for now is set up some patrols and wait until they s
 > *Angela: "If anyone posts about Yu-gi-oh, though, you're on it."* 
 
 We get a good idea of the lay of the land, but it's an uneventful day, as are the next two.
-#### Briefing and patrolling
+#### Deleting some mechs
 On the third day, we get an alert that a town 20 minutes from us has been attacked. We immediately head off and arrive to find the ore depot ransacked and some dead bodies, with one living person who is alarmed to see us. He points us in the direction the mechs went, and we track them.
+
+We are fighting a Rainmaker, a Witch, and a Ronin, who we find hauling the ore.
+##### Round 1
+Veda unleashes on the Rainmaker and takes it out with the omnigun and one autogun shot. She directs the second autogun at the Ronin, which deflects the bullet.
+
+> *Ethan: "This is a good time for the witch to go."*
+> *Jessee: "There's never a good time for the witch to go."*
+> *Chris: "That's so true."*
+
+The Witch blinds Veda, which spreads to [[Maya]]. It attempts to attack Veda again but misses, and it is jammed by Maya's Scorpion.
+
+> *Angela: "You may have blinded me, but get fucked."*
+> *Ethan: "And she is going to go off and get fucked."*
+> *Angela: "May I cordially invite you to get fucked."*
+
+Evelyn deploys her sensor Sentinel Drone.
+
+The Ronin moves in, taking damage from the drone, and attacks Evelyn.
+
+> *Ethan: "And he is going to..."*
+> *Angela: "I thought you were about to say he died."*
+> *Ethan: "No, the opposite. He crit you."*
+> *Jessee: "For Angela, that's about the same thing."*
+
+Cooper moves in and strikes the Ronin, then disengages and moves to the Witch.
+
+> *Chris: "I am going to approach the Ronin, and challenge it to a weeb-off."*
+##### Round 2
+Cooper attacks the Witch and destroys it.
+
+The Ronin moves away from the sentinel drone. Evelyn misses her attack of opportunity and it crits her again, doing structure damage.
+
+> *Ethan: "Are we playing with the alternate structure damage rules?"*
+> *Chris: "I would like to."*
+> *Ethan: "So don't mark it on your sheet, with the current rules if you roll badly, your mech just explodes."*
+> *Angela: "I did just roll a one, so."*
+> *Chris: "Yeah, Angela is in this campaign. We can't use those rules."*
+
+Evelyn repositions her drone, takes a small hit from the Ronin, and then knocks it prone.
+
+Veda shoots the Ronin; it redirects one shot back to her, but nearly kills it.
+##### Round 3
+Veda moves away from the Ronin and shoots with the omnigun, killing it.

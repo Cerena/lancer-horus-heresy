@@ -10,15 +10,13 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\rinac\\Documents\\Vaults\\lancer-horus-heresy\\Inbox",
+    "exportPath": "/var/home/tharinock/rpg/lancer-horus-heresy/docs",
     "filesToExport": [
       "Inbox",
       "NPC Notes",
-      "PC's/Humans",
-      "PC's/Mechs",
-      "PC's/NHP's",
-      "PC's/Company Roster.md",
-      "References"
+      "PC's",
+      "References",
+      "README.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -95,8 +93,8 @@
     },
     "searchOptions": {
       "featureId": "search",
-      "enabled": false,
-      "unavailable": true,
+      "enabled": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
@@ -191,7 +189,7 @@
     "rssOptions": {
       "featureId": "rss",
       "enabled": false,
-      "unavailable": true,
+      "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "siteUrl": "",
@@ -207,12 +205,12 @@
     "relativeHeaderLinks": false,
     "includeJS": true,
     "includeCSS": true,
-    "inlineMedia": true,
-    "inlineCSS": true,
-    "inlineJS": true,
-    "inlineFonts": true,
-    "inlineOther": true,
-    "combineAsSingleFile": true,
+    "inlineMedia": false,
+    "inlineCSS": false,
+    "inlineJS": false,
+    "inlineFonts": false,
+    "inlineOther": false,
+    "combineAsSingleFile": false,
     "offlineResources": false,
     "themeName": "",
     "slugifyPaths": true,
@@ -221,7 +219,7 @@
     "faviconPath": "",
     "siteName": "Horus Heresy",
     "iconEmojiStyle": "Native",
-    "exportRoot": "References/Notes",
+    "exportRoot": "",
     "includePluginCss": [
       "dataview"
     ],
@@ -233,7 +231,7 @@
   "rssDateProperty": "date",
   "onlyExportModified": true,
   "deleteOldFiles": true,
-  "exportPreset": "local",
+  "exportPreset": "online",
   "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",

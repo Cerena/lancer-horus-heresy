@@ -9,9 +9,13 @@ status: alive
 # Stats
 | Hull | Agility | Systems | Engineering |
 | ---- | ------- | ------- | ----------- |
-| 0    | 0       | 0       | 0           |
+| 3    | 2       | 0       | 0           |
 
 # Talents
-
+[[Heavy Gunner#Tier 1]]
+[[Stormbringer#Tier 1]]
+[[Crack Shot#Tier 1]]
+[[Technophile#Tier 1]]
+[[Siege Specialist#Tier 2]]
 
 # Notes

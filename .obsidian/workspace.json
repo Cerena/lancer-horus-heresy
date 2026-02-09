@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Mission Follow-up.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission Follow-up"
+              "title": "README"
             }
           }
         ]
@@ -227,12 +227,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8cc1a4d76c997ff",
+  "active": "af2bf2adad283a65",
   "lastOpenFiles": [
+    "Session Notes/Horus Heresy.html",
+    "Session Notes",
+    "PC's/Humans/Cooper Ellys.md",
+    "PC's/Humans/Alli.md",
+    "Inbox/Mission Follow-up.md",
+    "Session Notes",
     "Inbox/archived/Call To Arms!.md",
     "docs/inbox/archived/call-to-arms!.html",
     "docs/inbox/archived",
-    "Inbox/Mission Follow-up.md",
     "docs/inbox/mission-follow-up.html",
     "PC's/(Company Name) Roster.md",
     "docs/pc's/(company-name)-roster.html",
@@ -253,13 +258,9 @@
     "References/Talents/Siege Specialist.md",
     "docs/references/talents/technophile.html",
     "References/Talents/Crack Shot.md",
-    "docs/references/talents/crack-shot.html",
     "References/Talents/Stormbringer.md",
-    "docs/references/talents/stormbringer.html",
     "References/Talents/Heavy Gunner.md",
     "References/Talents/Leader.md",
-    "PC's/Humans/Cooper Ellys.md",
-    "PC's/Humans/Alli.md",
     "README.md",
     "References/Talents/Skirmisher.md",
     "References/Talents/Hunter.md",

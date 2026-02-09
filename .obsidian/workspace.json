@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Humans/Veda Sulati.md",
+                "file": "Inbox/Mission Follow-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Veda Sulati"
-            }
-          },
-          {
-            "id": "5c8188d5e0c3bb55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Talents/Technophile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technophile"
+              "title": "Mission Follow-up"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,48 +227,48 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c8188d5e0c3bb55",
+  "active": "a8cc1a4d76c997ff",
   "lastOpenFiles": [
+    "Inbox/archived/Call To Arms!.md",
+    "docs/inbox/archived/call-to-arms!.html",
+    "docs/inbox/archived",
+    "Inbox/Mission Follow-up.md",
+    "docs/inbox/mission-follow-up.html",
+    "PC's/(Company Name) Roster.md",
+    "docs/pc's/(company-name)-roster.html",
+    "Inbox/Congratulations and Registration.md",
+    "docs/inbox/congratulations-and-registration.html",
+    "NPC Notes/Royal Leadership/Henry Decker.md",
+    "Inbox/archived",
+    "templates/email.md",
+    "PC's/Humans/Veda Sulati.md",
+    "Untitled.canvas",
+    "PC's/Mechs/Raiju (Mech).md",
+    "PC's/Mechs/Prototype.md",
+    "PC's/Mechs/Maya.md",
+    "PC's/Mechs/Dream.md",
+    "References/Talents/Technophile.md",
     "References/Core Bonus/The Lesson of the Held Image.md",
     "docs/references/core-bonus/the-lesson-of-the-held-image.html",
-    "PC's/Mechs/Prototype.md",
-    "PC's/Mechs/Raiju (Mech).md",
     "References/Talents/Siege Specialist.md",
-    "References/Talents/Technophile.md",
     "docs/references/talents/technophile.html",
     "References/Talents/Crack Shot.md",
     "docs/references/talents/crack-shot.html",
     "References/Talents/Stormbringer.md",
     "docs/references/talents/stormbringer.html",
     "References/Talents/Heavy Gunner.md",
-    "docs/references/talents/heavy-gunner.html",
-    "PC's/Humans/Veda Sulati.md",
     "References/Talents/Leader.md",
-    "PC's/Mechs/Dream.md",
     "PC's/Humans/Cooper Ellys.md",
     "PC's/Humans/Alli.md",
     "README.md",
-    "docs/site-lib/search-index.json",
-    "docs/site-lib/metadata.json",
-    "PC's/Company Roster.md",
     "References/Talents/Skirmisher.md",
     "References/Talents/Hunter.md",
     "References/Talents/Duelist.md",
     "References/Talents/Combined Arms.md",
-    "References/Systems/Type-3 Projected Shield.md",
-    "References/Systems/Singularity Motivator.md",
-    "References/Systems/Hunter Logic Suite.md",
-    "References/Systems/Fade Cloak.md",
-    "References/Gear/Variable Sword.md",
-    "References/Gear/Fold Knife.md",
-    "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/supported-plugins.css",
-    "docs/site-lib/styles/snippets.css",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",
     "data/banners/powered_by_Lancer-white-on-black-cover.svg",

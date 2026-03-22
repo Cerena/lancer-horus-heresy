@@ -23,18 +23,19 @@ tags:
 ## Active - Unshackle Ushabti
 	For the rest of this scene, you can use the Ushabti Omnigun 3/round, instead of 1/round.
 # Core bonus
+[[The Lesson of the Held Image]]
 
 # Stats
 ## Durability
 
 | Structure | HP  | Armor | Stress | Heatcap | Repairs | Limited Use Bonus |
 | --------- | --- | ----- | ------ | ------- | ------- | ----------------- |
-|           |     |       |        |         |         |                   |
+| 4         | 16  | 0     | 4      | 6       | 4       | +0                |
 ## Combat
 
 | Speed | Evasion | E-Defense | Sensor Range | Save |
 | ----- | ------- | --------- | ------------ | ---- |
-|       |         |           |              |      |
+| 5     | 10      | 10        | 10           | 12   |
 # Weapons
 ## Flex Mount
 

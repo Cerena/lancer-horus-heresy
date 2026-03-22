@@ -1,5 +1,5 @@
 ---
-pilot: "[[Regional commander someone]]"
+pilot: "[[Regional Commander Sonja Creen]]"
 manufacture:
 chassis:
 tags:

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13aa3fcf4b31ea21",
+        "id": "d6b6973eb6a177f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c9bdc8733744dcb8",
+            "id": "a8cc1a4d76c997ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Notes/2025-12-14 Government Sponsored Eldritch Horrors.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-14 Government Sponsored Eldritch Horrors"
+              "title": "README"
             }
           }
         ]
@@ -85,11 +85,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57b3613d91699add",
+        "id": "e0648afada449dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "78616e31f4a24a4b",
+            "id": "2980012071a24331",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -97,7 +97,7 @@
                 "calendar": "ID_9b6959190809",
                 "ephemeral": {
                   "viewing": {
-                    "day": 8,
+                    "day": 5,
                     "month": 6,
                     "year": 5016
                   },
@@ -114,20 +114,20 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_09bbe88909e9",
-                "child": "ID_697b895babaa"
+                "id": "ID_0b8a6bfb4b99",
+                "child": "ID_69ca3b19fbd9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           },
           {
-            "id": "58cfe66e040d8646",
+            "id": "ff0c131b21d9cd5c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Notes/2025-12-14.md",
+                "file": "PC's/Humans/Cooper Ellys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,25 +137,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-14"
+              "title": "Backlinks for Cooper Ellys"
             }
           },
           {
-            "id": "ae66a3d18efeb1b3",
+            "id": "7b7d1b3fad1b6442",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/Notes/2025-12-14.md",
+                "file": "PC's/Humans/Cooper Ellys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-14"
+              "title": "Outgoing links from Cooper Ellys"
             }
           },
           {
-            "id": "f080667b8b8ad6c6",
+            "id": "e172772be62f24a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,35 +170,35 @@
             }
           },
           {
-            "id": "7da35c0c9004d39b",
+            "id": "75307a8851fc9a1f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/Notes/2025-12-14.md",
+                "file": "PC's/Humans/Cooper Ellys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-14"
+              "title": "Outline of Cooper Ellys"
             }
           }
         ]
       },
       {
-        "id": "cb23fad8512a0b5d",
+        "id": "d15b751aeefe69cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2904bf4153fa574a",
+            "id": "e49e8ade37ac2af9",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_9b6959190809",
-                "id": "ID_697b895babaa",
-                "parent": "ID_09bbe88909e9"
+                "id": "ID_69ca3b19fbd9",
+                "parent": "ID_0b8a6bfb4b99"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -227,54 +227,55 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c9bdc8733744dcb8",
+  "active": "a8cc1a4d76c997ff",
   "lastOpenFiles": [
-    "Inbox/Horus Heresy.html",
-    "References/Notes/2025-12-14 Government Sponsored Eldritch Horrors.md",
-    "PC's/Mechs/Maya.md",
-    "templates/Talent.md",
-    "templates/System.md",
-    "templates/Mech.md",
-    "templates/email.md",
-    "References/Places/Tal Astero.md",
-    "NPC Notes/Tal Astero/Heath Ledersin.md",
-    "PC's/Mechs/Raiju (Mech).md",
-    "References/Places/Kepler's Pride.md",
-    "PC's/Backstory/Cooper Ellys (Backstory).md",
-    "NPC Notes/Mechs/Stone Rhino.md",
-    "Untitled.base",
-    "NPC Notes/Tal Astero/Regional commander someone.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "NPC Notes/Tal Astero/Lance Beal.md",
-    "NPC Notes/Backstory/Father Sulati.md",
-    "NPC Notes/Tal Astero/Artria.md",
-    "NPC Notes/Mechs/Spiral Dragon.md",
-    "NPC Notes/Tal Astero/Gwen.md",
-    "NPC Notes/Mechs/White Tiger.md",
-    "PC's/Mechs/Dream.md",
+    "docs/session-notes/horus-heresy-content.html",
+    "docs/session-notes/horus-heresy.html",
+    "docs/session-notes",
+    "README.md",
+    "Session Notes/Horus Heresy.html",
+    "Session Notes",
     "PC's/Humans/Cooper Ellys.md",
-    "NPC Notes/Mechs",
-    "NPC Notes/Untitled.md",
-    "NPC Notes/Backstory/Chrom Ellys.md",
-    "PC's/Backstory/Evelyn Garve (Backstory).md",
-    "PC's/Humans/Evelyn Garve.md",
-    "Inbox/site-lib/search-index.json",
-    "Inbox/site-lib/metadata.json",
-    "Inbox/site-lib/styles/theme.css",
-    "Inbox/site-lib/styles/supported-plugins.css",
-    "Inbox/site-lib/styles/snippets.css",
-    "Inbox/site-lib/styles/other-plugins.css",
-    "Inbox/site-lib/styles/obsidian.css",
-    "Inbox/site-lib/media/favicon.png",
-    "Inbox/site-lib/media/6155340132a851f6089e.svg",
-    "Inbox/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "PC's/Humans/Alli.md",
+    "Inbox/Mission Follow-up.md",
+    "Session Notes",
+    "Inbox/archived/Call To Arms!.md",
+    "docs/inbox/archived/call-to-arms!.html",
+    "docs/inbox/archived",
+    "docs/inbox/mission-follow-up.html",
+    "PC's/(Company Name) Roster.md",
+    "docs/pc's/(company-name)-roster.html",
+    "Inbox/Congratulations and Registration.md",
+    "docs/inbox/congratulations-and-registration.html",
+    "NPC Notes/Royal Leadership/Henry Decker.md",
+    "templates/email.md",
+    "PC's/Humans/Veda Sulati.md",
+    "Untitled.canvas",
+    "PC's/Mechs/Raiju (Mech).md",
+    "PC's/Mechs/Prototype.md",
+    "PC's/Mechs/Maya.md",
+    "PC's/Mechs/Dream.md",
+    "References/Talents/Technophile.md",
+    "References/Core Bonus/The Lesson of the Held Image.md",
+    "References/Talents/Siege Specialist.md",
+    "References/Talents/Crack Shot.md",
+    "References/Talents/Stormbringer.md",
+    "References/Talents/Heavy Gunner.md",
+    "References/Talents/Leader.md",
+    "References/Talents/Skirmisher.md",
+    "References/Talents/Hunter.md",
+    "References/Talents/Duelist.md",
+    "References/Talents/Combined Arms.md",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "Untitled 1.canvas",
     "data/icons/free_action.svg",
     "data/banners/lancer_info.svg",
     "data/banners/powered_by_Lancer-white-on-black-cover.svg",
-    "data/banners/status-items.svg"
+    "data/banners/status-items.svg",
+    "data/banners/npc-items.svg",
+    "data/banners/npc-actors.svg",
+    "data/banners/pilot-items.svg"
   ]
 }
